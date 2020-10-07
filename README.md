@@ -1,7 +1,6 @@
-### Hi there, 
-# I'am Varun 👋 😎 💻
+### Hi there, I'am
 
-
+![](Vanilla-1s-281px.gif)
 
 - 🔭 I’m currently working on my DS/ALGO skills
 - 🌱 I’m currently learning Machine Learning, Web-Development
