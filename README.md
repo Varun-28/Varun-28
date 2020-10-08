@@ -1,6 +1,6 @@
 # Hi there👋, I'am
 
-![](Adobe_Post_20201008_0153250.7253986950021685.png)
+![](Varun.png)
 
 - 🔭 I’m currently working on my DS/ALGO skills
 - 🌱 I’m currently learning Machine Learning, Web-Development
