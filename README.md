@@ -1,10 +1,10 @@
 # Hi there👋, I'am
 
-![](Varun.png)
+![](githubImg.png)
 
-- 🔭 I’m currently working on my DS/ALGO skills
-- 🌱 I’m currently learning Machine Learning, Web-Development
-- 🤔 I’m looking for help with Competitive Coding
+- 🔭 I’m currently enhancing my **Web Development** skills
+- 🤝 In the search for a _Web Developer JOB_
+- 🌱 Machine Learning enthusiasm
 - 💬 Ask me about Front-end WebD, Java Language 
 - 😄 Pronouns: He/Him
 
