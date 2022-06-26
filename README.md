@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently enhancing my **Web Development** skills
 - 🤝 In the search for a _Web Developer JOB_
-- 🌱 Machine Learning enthusiasm
 - 💬 Ask me about Front-end WebD, Java Language 
 - 😄 Pronouns: He/Him
 
