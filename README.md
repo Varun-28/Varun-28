@@ -2,11 +2,13 @@
 
 ![](githubImg.png)
 
-- 🔭 I’m currently enhancing my **Web Development** skills
-- 🤝 In the search for a _Web Developer JOB_
-- 💬 Ask me about Front-end WebD, Java Language 
+- 🔭 Full Stack Web Developer
+- 💻 Frontend Tech Stack ➡️ React JS, HTML5, CSS3, JavaScript, jQuery, 
+- 💻 Backend Tech Stack ➡️ C#, Java, Microsoft Technologies (.NET Core)
+- 📃 Database ➡️ MS SQLServer, MongoDB
+- ☁️ Cloud ➡️ Azure
 - 😄 Pronouns: He/Him
 
 ## Contact Me ☎
- -📧 Mail me on [Gmail](mailto:28varun28pp@gmail.com)
+ -📧 Mail me on [Gmail](mailto:verma.varun2810@gmail.com)
  -🔗 Connect me on [Linkedin](https://www.linkedin.com/in/varun-verma-a-budding-engineer/)
