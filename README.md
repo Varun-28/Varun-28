@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Varun Verma!
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializing in building responsive and user-centric web applications. With a strong foundation in React.js and modern web development tools, I strive to create clean, efficient, and scalable solutions.
 
